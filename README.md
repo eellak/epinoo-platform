@@ -12,8 +12,8 @@
 
 Οδηγίες για την εγκατάσταση της ενιαίας πλατφόρμα διαχείρισης εκπαιδευτικού υλικού Επινοώ
 
-* <a href="https://github.com/eellak/epinoo-platform/wiki/%CE%91%CF%85%CF%84%CE%BF%CE%BC%CE%B1%CF%84%CE%BF%CF%80%CE%BF%CE%B9%CE%B7%CE%BC%CE%AD%CE%BD%CE%B5%CF%82-%CE%B4%CE%B9%CE%B1%CE%B4%CE%B9%CE%BA%CE%B1%CF%83%CE%AF%CE%B5%CF%82" target="_blank">Αυτοματοποιημένες διαδικασίες</a>
 * <a href="https://github.com/eellak/epinoo-platform/wiki/%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%87%CE%AD%CF%82" target="_blank">Παραδοχές</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/%CE%91%CF%85%CF%84%CE%BF%CE%BC%CE%B1%CF%84%CE%BF%CF%80%CE%BF%CE%B9%CE%B7%CE%BC%CE%AD%CE%BD%CE%B5%CF%82-%CE%B4%CE%B9%CE%B1%CE%B4%CE%B9%CE%BA%CE%B1%CF%83%CE%AF%CE%B5%CF%82" target="_blank">Αυτοματοποιημένες διαδικασίες</a>
 * <a href="https://github.com/eellak/epinoo-platform/wiki/%CE%A0%CF%81%CE%BF%CE%B1%CF%80%CE%B1%CE%B9%CF%84%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1-%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%CF%82" target="_blank">Προαπαιτούμενα εγκατάστασης</a>
 * <a href="https://github.com/eellak/epinoo-platform/wiki/Makefile" target="_blank">Makefile</a>
 * <a href="https://github.com/eellak/epinoo-platform/wiki/%CE%A0%CE%B1%CF%81%CE%AC%CE%BC%CE%B5%CF%84%CF%81%CE%BF%CE%B9-Makefile" target="_blank">Παράμετροι Makefile</a>
