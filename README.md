@@ -12,25 +12,25 @@
 
 Οδηγίες για την εγκατάσταση της ενιαίας πλατφόρμα διαχείρισης εκπαιδευτικού υλικού Επινοώ
 
-* <a href="" target="_blank">Αυτοματοποιημένες διαδικασίες</a>
-* Παραδοχές
-* Προαπαιτούμενα εγκατάστασης
-* Makefile
-* Παράμετροι Makefile
-* Makefile Targets
-* Puppet modules
-* apache
-* mysql
-* ffmpeg
-* Big Blue Button (bbb)
-* moodle
-* wordpress
-* ajenti
-* Big Blue Button - Περαιτέρω διαμόρφωση
-* WP FB AutoConnect Button
-* Facebook App for Epinoo.gr
-* Σελίδα Facebook
-* Ρύθμιση Single Sign On (SSO)
-* Moodle Courses View plugin Wordpress
-* SelCont
+* <a href="https://github.com/eellak/epinoo-platform/wiki/%CE%91%CF%85%CF%84%CE%BF%CE%BC%CE%B1%CF%84%CE%BF%CF%80%CE%BF%CE%B9%CE%B7%CE%BC%CE%AD%CE%BD%CE%B5%CF%82-%CE%B4%CE%B9%CE%B1%CE%B4%CE%B9%CE%BA%CE%B1%CF%83%CE%AF%CE%B5%CF%82" target="_blank">Αυτοματοποιημένες διαδικασίες</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%87%CE%AD%CF%82" target="_blank">Παραδοχές</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/%CE%A0%CF%81%CE%BF%CE%B1%CF%80%CE%B1%CE%B9%CF%84%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1-%CE%B5%CE%B3%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7%CF%82" target="_blank">Προαπαιτούμενα εγκατάστασης</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/Makefile" target="_blank">Makefile</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/%CE%A0%CE%B1%CF%81%CE%AC%CE%BC%CE%B5%CF%84%CF%81%CE%BF%CE%B9-Makefile" target="_blank">Παράμετροι Makefile</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/Makefile-Targets" target="_blank">Makefile Targets</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/Puppet-modules" target="_blank">Puppet modules</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/apache" target="_blank">apache</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/mysql" target="_blank">mysql</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/ffmpeg" target="_blank">ffmpeg</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/Big-Blue-Button-(bbb)" target="_blank">Big Blue Button (bbb)</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/moodle" target="_blank">moodle</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/wordpress" target="_blank">wordpress</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/ajenti" target="_blank">ajenti</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/Big-Blue-Button---%CE%B4%CE%B9%CE%B1%CE%BC%CF%8C%CF%81%CF%86%CF%89%CF%83%CE%B7" target="_blank">Big Blue Button - Περαιτέρω διαμόρφωση</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/WP-FB-AutoConnect-Button" target="_blank">WP FB AutoConnect Button</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/Facebook-App-for-Epinoo.gr" target="_blank">Facebook App for Epinoo.gr</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/%CE%A3%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1-Facebook" target="_blank">Σελίδα Facebook</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/%CE%A1%CF%8D%CE%B8%CE%BC%CE%B9%CF%83%CE%B7-Single-Sign-On-(SSO)" target="_blank">Ρύθμιση Single Sign On (SSO)</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/Moodle-Courses-View-plugin-for-Wordpress" target="_blank">Moodle Courses View plugin Wordpress</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/SelCont" target="_blank">SelCont</a>
 
