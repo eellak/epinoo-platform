@@ -12,25 +12,25 @@
 
 Οδηγίες για την εγκατάσταση της ενιαίας πλατφόρμα διαχείρισης εκπαιδευτικού υλικού Επινοώ
 
-Αυτοματοποιημένες διαδικασίες
-Παραδοχές
-Προαπαιτούμενα εγκατάστασης
-Makefile
-Παράμετροι Makefile
-Makefile Targets
-Puppet modules
-apache
-mysql
-ffmpeg
-Big Blue Button (bbb)
-moodle
-wordpress
-ajenti
-Big Blue Button - Περαιτέρω διαμόρφωση
-WP FB AutoConnect Button
-Facebook App for Epinoo.gr
-Σελίδα Facebook
-Ρύθμιση Single Sign On (SSO)
-Moodle Courses View plugin Wordpress
-SelCont
+#Αυτοματοποιημένες διαδικασίες
+#Παραδοχές
+#Προαπαιτούμενα εγκατάστασης
+#Makefile
+#Παράμετροι Makefile
+#Makefile Targets
+#Puppet modules
+#apache
+#mysql
+#ffmpeg
+#Big Blue Button (bbb)
+#moodle
+#wordpress
+#ajenti
+#Big Blue Button - Περαιτέρω διαμόρφωση
+#WP FB AutoConnect Button
+#Facebook App for Epinoo.gr
+#Σελίδα Facebook
+#Ρύθμιση Single Sign On (SSO)
+#Moodle Courses View plugin Wordpress
+#SelCont
 
