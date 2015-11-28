@@ -30,7 +30,6 @@
 * <a href="https://github.com/eellak/epinoo-platform/wiki/moodle" target="_blank">moodle</a>
 * <a href="https://github.com/eellak/epinoo-platform/wiki/wordpress" target="_blank">wordpress</a>
 * <a href="https://github.com/eellak/epinoo-platform/wiki/ajenti" target="_blank">ajenti</a>
-* <a href="https://github.com/eellak/epinoo-platform/wiki/Big-Blue-Button---%CE%B4%CE%B9%CE%B1%CE%BC%CF%8C%CF%81%CF%86%CF%89%CF%83%CE%B7" target="_blank">Big Blue Button - Περαιτέρω διαμόρφωση</a>
 * <a href="https://github.com/eellak/epinoo-platform/wiki/WP-FB-AutoConnect-Button" target="_blank">WP FB AutoConnect Button</a>
 * <a href="https://github.com/eellak/epinoo-platform/wiki/Facebook-App-for-Epinoo.gr" target="_blank">Facebook App for Epinoo.gr</a>
 * <a href="https://github.com/eellak/epinoo-platform/wiki/%CE%A3%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1-Facebook" target="_blank">Σελίδα Facebook</a>
