@@ -36,4 +36,5 @@
 * <a href="https://github.com/eellak/epinoo-platform/wiki/%CE%A1%CF%8D%CE%B8%CE%BC%CE%B9%CF%83%CE%B7-Single-Sign-On-(SSO)" target="_blank">Ρύθμιση Single Sign On (SSO)</a>
 * <a href="https://github.com/eellak/epinoo-platform/wiki/Moodle-Courses-View-plugin-for-Wordpress" target="_blank">Moodle Courses View plugin Wordpress</a>
 * <a href="https://github.com/eellak/epinoo-platform/wiki/SelCont" target="_blank">SelCont</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/%CE%9C%CE%B5%CF%84%CE%B1%CF%86%CF%81%CE%AC%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%84%CE%B1-%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC" target="_blank">Μεταφράσεις στα ελληνικά</a>
 
