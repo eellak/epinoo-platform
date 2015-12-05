@@ -37,4 +37,5 @@
 * <a href="https://github.com/eellak/epinoo-platform/wiki/Moodle-Courses-View-plugin-for-Wordpress" target="_blank">Moodle Courses View plugin Wordpress</a>
 * <a href="https://github.com/eellak/epinoo-platform/wiki/SelCont" target="_blank">SelCont</a>
 * <a href="https://github.com/eellak/epinoo-platform/wiki/%CE%9C%CE%B5%CF%84%CE%B1%CF%86%CF%81%CE%AC%CF%83%CE%B5%CE%B9%CF%82-%CF%83%CF%84%CE%B1-%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC" target="_blank">Μεταφράσεις στα ελληνικά</a>
+* <a href="https://github.com/eellak/epinoo-platform/wiki/Crowdfunding---%CF%80%CE%BB%CE%B7%CF%81%CF%89%CE%BC%CE%AD%CF%82-%CE%B3%CE%B9%CE%B1-%CE%B4%CF%89%CF%81%CE%B5%CE%AD%CF%82-%CE%BA%CE%B1%CE%B9-%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1" target="_blank">Crowdfunding - πληρωμές για δωρεές και μαθήματα</a>
 
